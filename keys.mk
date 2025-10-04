@@ -1,1 +1,1 @@
-PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/lineage-priv/keys/keys.mk
+PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/lineage-priv/keys
